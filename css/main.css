@@ -1,0 +1,23 @@
+body, html{
+height: 100%;
+margin: 0px;
+}
+
+
+nav li{
+  display:inline
+
+}
+
+Nav ul{
+  background-color: rgb(31, 30, 30);
+  margin: 0px;
+  list-style-type: none;
+  width: 100%;
+  padding: 15px;
+}
+nav{
+  display: block;
+  color: antiquewhite;
+text-align: right;
+}
